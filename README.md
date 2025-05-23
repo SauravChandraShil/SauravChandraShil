@@ -8,7 +8,6 @@ Passionate about turning data into decisions. With a foundation in computer scie
   <li>Senior Project Executive|2+ years of experience in the EdTech industry</li>
 </ul>
 
-
 <h4><u>Currently Learning & Building Projects In:</u></h4>
 <ul>
   <li>Data Cleaning & Exploratory Data Analysis (EDA)</li>
@@ -19,17 +18,18 @@ Passionate about turning data into decisions. With a foundation in computer scie
 </ul>
 
 
-💡 Interests:
+<h4><u>Interests:</u></h4>
+<ul>
+  <li>Project Management</li>
+  <li>Data Science</li>
+  <li>Supply Chain Analytics</li>
+  <li>EdTech & Learning Analytics</li>
+  <li>Time Series Forecasting</li>
+  <li>Business Intelligence</li>
+</ul>
 
-Supply Chain Analytics
 
-EdTech & Learning Analytics
-
-Time Series Forecasting
-
-Business Intelligence
-
-🔗 Connect with me:
-LinkedIn | 📬 Email
+<h4><u>Connect with me:</u></h4>
+<b>LinkedIn: </b> <a href="https://www.linkedin.com/in/saurav-chandra-shil/"> Click Here </a> |<b>Email: </b> sauravchandrashil@gmail.com | sauravchandrashil@hotmail.com
 
 📁 Feel free to check out my repositories — where I’m applying what I learn through hands-on projects and real-world datasets.
