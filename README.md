@@ -30,7 +30,7 @@ Passionate about turning data into decisions. With a foundation in computer scie
 
 
 <h4><u>Connect with me:</u></h4>
-<b>LinkedIn: </b> <a href="https://www.linkedin.com/in/saurav-chandra-shil/" target="_blank"> Click Here </a> | <b>Email: </b> sauravchandrashil@gmail.com | sauravchandrashil@hotmail.com
+<b>LinkedIn: </b> <a href="https://www.linkedin.com/in/saurav-chandra-shil/" target="_blank" >Click Here</a> | <b>Email: </b> sauravchandrashil@gmail.com | sauravchandrashil@hotmail.com
 
 
-📁 Feel free to check out my repositories — where I’m applying what I learn through hands-on projects and real-world datasets.
+<h3>Feel free to check out my repositories — where I’m applying what I learn through hands-on projects and real-world datasets.</h3>
